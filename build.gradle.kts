@@ -1,7 +1,7 @@
 plugins {
     id("maven-publish")
     id("signing")
-    kotlin("jvm") version "1.9.21"
+    kotlin("jvm") version "1.9.22"
 }
 
 group = "dev.junsung"
